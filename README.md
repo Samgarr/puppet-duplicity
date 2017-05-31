@@ -1,5 +1,6 @@
 #duplicity
 
+
 [![Puppet Forge](https://img.shields.io/puppetforge/v/tohuwabohu/duplicity.svg)](https://forge.puppetlabs.com/tohuwabohu/duplicity)
 [![Build Status](https://travis-ci.org/tohuwabohu/puppet-duplicity.svg?branch=master)](https://travis-ci.org/tohuwabohu/puppet-duplicity)
 
